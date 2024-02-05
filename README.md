@@ -79,6 +79,8 @@ streamlit run app.py
 
 Visit http://localhost:8501 in your web browser to interact with the multipage web app.
 
+![](https://github.com/brijsingh01/streamlit/blob/main/images/titanic.gif)
+
 ## Customization
 Feel free to customize and extend the app based on your specific requirements. Streamlit's simplicity allows for easy modification and adaptation.
 
